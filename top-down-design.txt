@@ -1,0 +1,26 @@
+Doing Laundry
+
+1 Prepare laundry
+  1.1 Gather laundry
+  1.2 Separate laundry
+    1.2.1 Separate laundry and dry cleaning
+      1.2.1.1 separate laundry by color
+      1.2.1.2 take dry cleaning to dry cleaners
+2 Wash laundry
+  2.1 Add laundry to washing machine
+    2.1.1 Open lid to washing machine
+    2.1.2 Put laundry into washing machine barrel
+    2.1.3 Close lid to washing machine
+  2.2 Add laundry detergent
+  2.3 Choose wash cycle and press start
+3 Dry laundry
+  3.1 Remove laundry from washing machine
+  3.2 Separate out any laundry that you do not want to dry in the dryer
+  3.3 Place remaining laundry in dryer
+  3.4 Add dryer sheets
+  3.5 Choose dry cycle and press start
+4 Fold laundry
+  4.1 Remove laundry from dryer
+  4.2 Place laundry in laundry basket
+  4.3 Move laundry basket to optimal location to fold
+5. Put Laundry Away
