@@ -1,0 +1,18 @@
+Class:  Boat
+
+Attributes:
+has_engine (boolean)
+amount_of_gas (integer)
+material (string)
+number_of_passengers (integer)
+has_steering_wheel (boolean)
+purpose (string)
+
+Methods:
+
+engine (change has_engine to true)
+changeAmount_of_gas (changes the amount_of_gas attribute)
+changeMaterial (changes the material attribute)
+changeNumber_of_passengers (changes the number_of_passengers attribute)
+changePurpose (changes the purpose attribute)
+steering_wheel (change has_steering_wheel to false)
