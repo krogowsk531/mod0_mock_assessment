@@ -1,0 +1,35 @@
+Instance: Sail
+
+Attributes
+
+hasEngine: false
+amountOfgas: 0
+material: 'polyester'
+numberOfpassengers: 2
+hasSteeringwheel: true
+purpose: 'to sail'
+
+Methods:
+engine (hasEngine = false)
+changeMaterial: material = 'aluminum'
+changeNumberofpassengers: numberofpassengers = 4
+steeringWheel (hasSteeringwheel = false)
+changePurpose: purpose = 'fish'
+
+Instance:  Speed
+
+Attributes
+
+hasEngine: true
+amountOfgas: 30
+material: 'fiberglass'
+numberOfpassengers: 7
+hasSteeringwheel: true
+purpose:  'water sports'
+
+Methods:
+engine (hasEngine = false)
+changeMaterial: material = "polyester"
+changeNumberofpassengers: numberofpassengers = 5
+steeringWheel (hasSteeringwheel = false)
+changePurpose: purpose = 'drive fast'
